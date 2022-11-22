@@ -1,16 +1,24 @@
 # Weather App
 
-Our assignment was to create a weather app after a specific design and fetch it's data using Openweather API.
+#2 Mob programming project
 
-## The problem
+Create a weather app according to a given design spec design and fetch it's data using Openweather API
 
-1 Create index, stylesheet and script from scratch.
-2 Working together connecting the API and HTML.
-3 Creating two branches for Script and Styling, working on both separately.
-4 Merge both branches and connecting files.
-5 Mobprogram to finalize the site.
+Tech: JavaScript, API, Html, CSS
 
-If we had more time we would add a city form to change location and expand time frame for fetching data.
+Tech focus:
+
+- How to use objects in JavaScript
+
+- How to use arrays in JavaScript
+
+- How to use array methods such as `forEach()` and `filter()` 
+
+- Knowledge about closures and scope in JavaScript
+
+- More about manipulating the DOM using Javascript
+
+- How to structure your code in functions
 
 ## View it live
 
