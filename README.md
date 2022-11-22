@@ -2,7 +2,7 @@
 
 #2 Mob programming project
 
-Create a weather app according to a given design spec design and fetch it's data using Openweather API
+Create a weather app according to a given design spec (mobile first) and fetch it's data using Openweather API
 
 Tech: JavaScript, API, Html, CSS
 
